@@ -1,0 +1,17 @@
+gui_x = 50;
+gui_y = 700;
+w = 685;
+line = 0;
+part = 0;
+show_text = true;
+str = "";
+lines = 0;
+help_text[1] = "Left click on the Build Basics tab on the right hand side of the screen to access your plans.";
+help_text[2] = "Build a Road connected to the Capital road in order to receive the supply wagon.";
+help_text[3] = "Build a Stockpile somewhere close to the road to store the supplies in the wagon. Right click and drag to select items for collection.";
+help_text[4] = "Collect the supplies necessary and build a Lumber Mill.";
+help_text[5] = "Collect the supplies necessary and build a Silo.";
+help_text[6] = "Collect the supplies necessary and build a Farm.";
+help_text[7] = "Collect the supplies necessary and build the Town Hall. Build a Quarry to acquire stone more efficiently. Construct a Builder Hut to increase the number of Builders.";
+help_text[8] = "Construct amenity buildings to increase your town's appeal. Use the landlord in the Town Hall to designate land parcels for sale to potential residents.";
+instance_create_layer(0,0,"Instances", obj_next_text);

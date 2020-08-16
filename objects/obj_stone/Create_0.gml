@@ -1,0 +1,11 @@
+depth = -1;
+target_x = x;
+target_y = y;
+task_type = "collect";
+transport_item = "stone";
+value = 1;
+rejected = false;
+selected_sprite = spr_stone_selected;
+unselected_sprite = spr_stone;
+rejected_sprite = spr_stone_rejected;
+alarm[0] = 1;

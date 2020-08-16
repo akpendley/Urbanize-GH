@@ -1,0 +1,1 @@
+fade_to_black = true;

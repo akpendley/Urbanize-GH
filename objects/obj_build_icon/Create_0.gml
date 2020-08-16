@@ -1,0 +1,41 @@
+//required variables
+my_tray = 0;
+my_tab = 0;
+tray_slot = 0;
+basic_id = 0;
+inactive = false;
+
+//auto set
+auto_set = false;
+hover = false
+gui_x = 0;
+gui_y = 0;
+gui_width = 110;
+gui_height = 96;
+name_x = 55;
+name_y = 110;
+x_sep = 20;
+y_sep = 20;
+y_slot = 120;
+alarm[0] = 1;
+depth = 10;
+font = font_resource_tracker;
+color = c_white;
+complete_obj = 0;
+sprite = 0;
+work_to_complete = 0;
+wood_to_complete = 0;
+lumber_to_complete = 0;
+stone_to_complete = 0;
+iron_to_complete = 0;
+steel_to_complete = 0;
+cement_to_complete = 0;
+gold_to_complete = 0;	
+materials_x = 115;
+materials_y = 8;
+text_sep_x = 30;
+materials_y_sep = 20;
+font_small = font_build_tray;
+icon_sprite = 0;
+text = "";
+centering = true;

@@ -1,0 +1,16 @@
+task = "none";
+target_id = -2;
+target_x = 0;
+target_y = 0;
+walk_speed = 64;
+speed_mod = 1;
+en_route = false;
+home = 0;
+home_x = 0;
+home_y = 0;
+pause = false;
+hunger = 0; //days without eating
+tried_to_eat = false; //have i tried to eat today, reset everyday
+daily_done = false;
+path = path_add();
+map = global.road_network;

@@ -1,0 +1,11 @@
+depth = -5000;
+camera_speed = 16;
+global.destroyables_selected = ds_queue_create();
+draw_selection_box = false;
+number_selected = 0;
+global.selection_box_x1 = 0;
+global.selection_box_y1 = 0;
+global.selection_box_x2 = 0;
+global.selection_box_y2 = 0;
+cam = obj_camera;
+locked = true;

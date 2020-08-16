@@ -1,0 +1,11 @@
+depth = -1;
+target_x = x;
+target_y = y;
+task_type = "collect";
+transport_item = "lumber";
+value = 1;
+rejected = false;
+selected_sprite = spr_lumber_selected;
+unselected_sprite = spr_lumber;
+rejected_sprite = spr_lumber_rejected;
+alarm[0] = 1;

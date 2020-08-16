@@ -1,0 +1,11 @@
+depth = -1;
+target_x = x;
+target_y = y;
+task_type = "collect";
+transport_item = "logs";
+value = 1;
+rejected = false;
+selected_sprite = spr_log_selected;
+unselected_sprite = spr_log;
+rejected_sprite = spr_log_rejected;
+alarm[0] = 1;

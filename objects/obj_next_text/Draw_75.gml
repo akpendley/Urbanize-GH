@@ -1,0 +1,1 @@
+draw_sprite(spr_next_text, image_index, gui_x, gui_y);

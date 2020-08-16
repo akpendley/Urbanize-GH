@@ -1,0 +1,15 @@
+my_tab = 0;
+gui_x = 1920;
+gui_y = 200;
+close_gui_x = 1920;
+open_gui_x = 1720;
+gui_speed = 20;
+sprite = spr_build_basics_tray;
+move_left = true;
+move_right = false;
+death = false;
+icons = ds_queue_create();
+icons_inactive = false;
+list = 0;
+depth = 20;
+alarm[0] = 1;
