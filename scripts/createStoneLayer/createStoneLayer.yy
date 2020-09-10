@@ -1,8 +1,12 @@
 {
-    "id": "689a52f6-ed0d-4a32-ba86-c07666b0da9d",
-    "modelName": "GMScript",
-    "mvc": "1.0",
-    "name": "createStoneLayer",
-    "IsCompatibility": false,
-    "IsDnD": false
+  "isDnD": false,
+  "isCompatibility": false,
+  "parent": {
+    "name": "Generation",
+    "path": "folders/Scripts/Generation.yy",
+  },
+  "resourceVersion": "1.0",
+  "name": "createStoneLayer",
+  "tags": [],
+  "resourceType": "GMScript",
 }

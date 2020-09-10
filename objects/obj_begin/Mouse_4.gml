@@ -53,19 +53,22 @@ global.player_one = instance_create_layer(196, 1300, "Instances", obj_planner);
 
 ////////////////////// TUTORIAL MODE ////////////////////////
 
-/*instance_create_layer(x,y,"Instances",obj_gasparaldo);
+instance_create_layer(x,y,"Instances",obj_gasparaldo);
 		global.unlocked[? "Road"] = 1;
-		global.unlocked[? "Stockpile"] = 1;
-		global.unlocked[? "Silo"] = 1;
-		global.unlocked[? "Lumber Mill"] = 1;
-		global.unlocked[? "Quarry"] = 1;
-		global.unlocked[? "Builder's Hut"] = 1;
-		global.unlocked[? "Farm"] = 1;
-		global.unlocked[? "Town Hall"] = 1;
-		global.unlocked[? "Inn"] = 1;
-*/
+		global.unlocked[? "Stockpile"] = 0;
+		global.unlocked[? "Silo"] = 0;
+		global.unlocked[? "Lumber Mill"] = 0;
+		global.unlocked[? "Quarry"] = 0;
+		global.unlocked[? "Builder's Hut"] = 0;
+		global.unlocked[? "Farm"] = 0;
+		global.unlocked[? "Town Hall"] = 0;
+		global.unlocked[? "Inn"] = 0;
+
 ////////////////////// TUTORIAL MODE /////////////////////////
 
+////////////////////// DEVELOP MODE  /////////////////////////
+
+/*
 global.unlocked[? "Road"] = 1;
 global.unlocked[? "Stockpile"] = 1;
 global.unlocked[? "Silo"] = 1;
@@ -75,6 +78,9 @@ global.unlocked[? "Builder's Hut"] = 1;
 global.unlocked[? "Farm"] = 1;
 global.unlocked[? "Town Hall"] = 1;
 global.unlocked[? "Inn"] = 1;
+*/
+
+////////////////////// DEVELOP MODE  /////////////////////////
 
 obj_camera_controller.x = 0;
 obj_camera_controller.y = 1344;

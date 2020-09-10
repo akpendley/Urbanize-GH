@@ -1,8 +1,12 @@
 {
-    "id": "2edc1687-8f79-44e2-ae05-65debb7ac0fc",
-    "modelName": "GMScript",
-    "mvc": "1.0",
-    "name": "checkEnRouteHome",
-    "IsCompatibility": false,
-    "IsDnD": false
+  "isDnD": false,
+  "isCompatibility": false,
+  "parent": {
+    "name": "Scripts",
+    "path": "folders/Scripts.yy",
+  },
+  "resourceVersion": "1.0",
+  "name": "checkEnRouteHome",
+  "tags": [],
+  "resourceType": "GMScript",
 }

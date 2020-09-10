@@ -1,8 +1,12 @@
 {
-    "id": "ec12ab5f-9838-4dd6-9e83-8947b56a64d6",
-    "modelName": "GMScript",
-    "mvc": "1.0",
-    "name": "transferSelectedToWorklist",
-    "IsCompatibility": false,
-    "IsDnD": false
+  "isDnD": false,
+  "isCompatibility": false,
+  "parent": {
+    "name": "Scripts",
+    "path": "folders/Scripts.yy",
+  },
+  "resourceVersion": "1.0",
+  "name": "transferSelectedToWorklist",
+  "tags": [],
+  "resourceType": "GMScript",
 }

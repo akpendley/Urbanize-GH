@@ -1,4 +1,4 @@
-depth = -1;
+depth = -y;
 
 //	phases of work
 //	

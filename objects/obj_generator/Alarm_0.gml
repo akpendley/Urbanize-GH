@@ -106,13 +106,13 @@ switch(step)
 		global.unlocked = ds_map_create();
 		global.unlocked[? "Road"] = 1;
 		global.unlocked[? "Stockpile"] = 1;
-		global.unlocked[? "Silo"] = 1;
-		global.unlocked[? "Lumber Mill"] = 1;
-		global.unlocked[? "Quarry"] = 1;
-		global.unlocked[? "Builder's Hut"] = 1;
-		global.unlocked[? "Farm"] = 1;
-		global.unlocked[? "Town Hall"] = 1;
-		global.unlocked[? "Inn"] = 1;
+		global.unlocked[? "Silo"] = 0;
+		global.unlocked[? "Lumber Mill"] = 0;
+		global.unlocked[? "Quarry"] = 0;
+		global.unlocked[? "Builder's Hut"] = 0;
+		global.unlocked[? "Farm"] = 0;
+		global.unlocked[? "Town Hall"] = 0;
+		global.unlocked[? "Inn"] = 0;
 
 
 		global.build_icon_sprites = ds_map_create();

@@ -1,8 +1,12 @@
 {
-    "id": "9e950dab-6ad7-459a-9955-222afdd497ee",
-    "modelName": "GMScript",
-    "mvc": "1.0",
-    "name": "contrast",
-    "IsCompatibility": false,
-    "IsDnD": false
+  "isDnD": false,
+  "isCompatibility": false,
+  "parent": {
+    "name": "Generation",
+    "path": "folders/Scripts/Generation.yy",
+  },
+  "resourceVersion": "1.0",
+  "name": "contrast",
+  "tags": [],
+  "resourceType": "GMScript",
 }

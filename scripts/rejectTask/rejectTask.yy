@@ -1,8 +1,12 @@
 {
-    "id": "9ab95b72-d90a-469b-a742-31701bd779aa",
-    "modelName": "GMScript",
-    "mvc": "1.0",
-    "name": "rejectTask",
-    "IsCompatibility": false,
-    "IsDnD": false
+  "isDnD": false,
+  "isCompatibility": false,
+  "parent": {
+    "name": "Scripts",
+    "path": "folders/Scripts.yy",
+  },
+  "resourceVersion": "1.0",
+  "name": "rejectTask",
+  "tags": [],
+  "resourceType": "GMScript",
 }

@@ -1,2 +1,6 @@
-transport_item = "none";
-transport_value = 0;
+function clearInventory() {
+	transport_item = "none";
+	transport_value = 0;
+
+
+}

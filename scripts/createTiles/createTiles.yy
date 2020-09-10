@@ -1,8 +1,12 @@
 {
-    "id": "e16301d8-37ba-44d4-85c9-b6ceecc46e45",
-    "modelName": "GMScript",
-    "mvc": "1.0",
-    "name": "createTiles",
-    "IsCompatibility": false,
-    "IsDnD": false
+  "isDnD": false,
+  "isCompatibility": false,
+  "parent": {
+    "name": "Generation",
+    "path": "folders/Scripts/Generation.yy",
+  },
+  "resourceVersion": "1.0",
+  "name": "createTiles",
+  "tags": [],
+  "resourceType": "GMScript",
 }

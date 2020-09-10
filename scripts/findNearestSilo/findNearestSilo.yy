@@ -1,8 +1,12 @@
 {
-    "id": "d2affb35-83ee-42df-a94f-6ae2f71df423",
-    "modelName": "GMScript",
-    "mvc": "1.0",
-    "name": "findNearestSilo",
-    "IsCompatibility": false,
-    "IsDnD": false
+  "isDnD": false,
+  "isCompatibility": false,
+  "parent": {
+    "name": "Scripts",
+    "path": "folders/Scripts.yy",
+  },
+  "resourceVersion": "1.0",
+  "name": "findNearestSilo",
+  "tags": [],
+  "resourceType": "GMScript",
 }

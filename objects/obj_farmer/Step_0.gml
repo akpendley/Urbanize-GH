@@ -1,4 +1,4 @@
-depth = -1;
+depth = -y;
 if !global.locked then
 {
 if collision_point(x, y, obj_road, false, true) then
